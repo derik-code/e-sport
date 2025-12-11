@@ -30,7 +30,7 @@
 ## Project structure
 
 ```
-TariffManager/
+sportClubAttendance/
 ├── gradle/                                         # Gradle wrapper
 ├── main/         
 │   ├── config/                                     # Конфигурационные классы
